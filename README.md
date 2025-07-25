@@ -2,6 +2,7 @@
 
 ### About Me:
 
+- ![This is me](file:///Users/jielu/Desktop/Graduate%20photo.JPG "Jie Lu")
 - 🔭 I’m a student.
 - I graducated from Emma Lazarus High School in June 2025 and will be a freshman of Hunter College.
 - 🌱 I’m currently learning Figma and coding.
